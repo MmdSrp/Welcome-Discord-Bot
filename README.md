@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Logo" width="100" height="100">
+  <a href="https://github.com/mmdsrp">
+    <img src="https://img.icons8.com/?size=512&id=30998&format=png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Welcome Bot Discord </h3>
@@ -15,10 +15,10 @@
   <p align="center">
     سورس کد بات خوش آمد گویی برای دیسکورد
     <br />
-    <a href="https://coderhamid.ir"><strong>Explore the docs »</strong></a>
+    <a href="https://mmdsrp.ir"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://coderhamid.ir/">Creator Site</a>
+    <a href="https://mmdsrp.ir/">Creator Site</a>
     &middot;
     <a href="https://discord.com/users/671944662113583114">Report Bug</a>
   </p>
@@ -39,7 +39,7 @@ Discord bot python code for welcome after a person joins the server
 
 Use the `python welcome.py` to get started.
 
-برای شروع از `python status.py` استفاده کنید.
+برای شروع از `python welcome.py` استفاده کنید.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
