@@ -86,7 +86,7 @@ This Discord bot is designed to send a welcome message to new members who join a
 
 5. **Sending Welcome Messages**: When a new member is detected, the bot sends a personalized welcome message to a specified channel with the member's avatar and a friendly greeting.
 
-### Explanation of the Bot in Persian
+### توضیح بات به زبان فارسی
 این ربات دیسکورد برای ارسال یک پیام خوش آمد گویی به اعضای جدیدی که به هر سروری که ربات در آن حضور دارد، طراحی شده است. نحوه کار آن به این صورت است:
 
 1. **راه‌اندازی**: ربات با پیشوند دستوری `!` راه‌اندازی می‌شود و از تمام intents برای دسترسی به رویدادها و داده‌های لازم استفاده می‌کند.
